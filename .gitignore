@@ -1,0 +1,11 @@
+# Model files (0.8 to 1.1 GB each, over GitHub's 100 MB limit); hashes in SHA256SUMS.txt, sources in README.md
+models/*.gguf
+# Built app (about 120 MB); source and commit in README.md
+apks/*.apk
+# Team test conversations and scribe instructions: not public (hashes in SHA256SUMS.txt)
+prompts/
+# Raw run output (phone logs and device snapshots)
+results/
+__pycache__/
+# Excel lock files (a workbook open in Excel)
+~$*

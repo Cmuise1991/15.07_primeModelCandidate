@@ -1,0 +1,2 @@
+# Raw data must stay byte-exact (the prompt file mixes line endings and is checked by sha256): no line-ending conversion
+* -text
